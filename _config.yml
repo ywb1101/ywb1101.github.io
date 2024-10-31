@@ -1,2 +1,12 @@
 title: My Blog
 description: Welcome to my personal blog!
+theme: minima
+
+# 添加导航配置
+header_pages:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Blog
+    url: /blog
