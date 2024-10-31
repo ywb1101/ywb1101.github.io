@@ -1,0 +1,23 @@
+nav {
+    background-color: #f8f9fa; /* 导航背景色 */
+    padding: 10px; /* 内边距 */
+}
+
+nav ul {
+    list-style: none; /* 去掉列表样式 */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* 水平排列 */
+    margin-right: 20px; /* 每个项之间的间距 */
+}
+
+nav ul li a {
+    text-decoration: none; /* 去掉链接下划线 */
+    color: #007bff; /* 链接颜色 */
+}
+
+nav ul li a:hover {
+    text-decoration: underline; /* 鼠标悬停时的效果 */
+}
